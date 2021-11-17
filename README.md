@@ -55,6 +55,7 @@ Team Profile Demo:
 ![demonstration of budget tracker](/assets/GIF/Demo-html.gif)
 
 Generator Test (jest) Demo:
+
 ![demonstration of budget tracker](/assets/GIF/Demo-test.gif)
 
 OR access the share [Profile Generator link](https://watch.screencastify.com/v/LE3oSOOdnXVLbrSGXW5G) & [Generator Test link](https://watch.screencastify.com/v/rNXmn1PQg3s2XbrlPUwZ) here!
@@ -62,6 +63,7 @@ OR access the share [Profile Generator link](https://watch.screencastify.com/v/L
 ## Deployement
 
 - Github Repository Link: https://github.com/yingliii/Team-Profile-Generator
+  -html page
 
 ## Contributor
 
