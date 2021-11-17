@@ -52,15 +52,18 @@ See a live demonstration in the demo section below.
 
 Team Profile Demo:
 
-![demonstration of budget tracker](/assets/GIF/Demo-html.gif)
+![demonstration of generate team profile](/assets/GIF/Demo-html.gif)
 
 Generator Test (jest) Demo:
 
-![demonstration of budget tracker](/assets/GIF/Demo-test.gif)
+![demonstration of how to test](/assets/GIF/Demo-test.gif)
 
 OR access the share [Profile Generator link](https://watch.screencastify.com/v/LE3oSOOdnXVLbrSGXW5G) & [Generator Test link](https://watch.screencastify.com/v/rNXmn1PQg3s2XbrlPUwZ) here!
 
 ## Deployement
+
+- Screenshot of the page showed in demo video
+  ![demonstration of webpage](/assets/Page.png)
 
 - Github Repository Link: https://github.com/yingliii/Team-Profile-Generator
   -html page
